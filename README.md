@@ -22,7 +22,7 @@ _The ultimate desktop application for creating, managing, and bundling meme toke
 
 <div align="center">
 
-**📱 Telegram: [@bogardt](https://t.me/bogardt)**
+**📱 Telegram: [@vladmeer](https://t.me/vladmeer67)**
 
 </div>
 
@@ -154,7 +154,7 @@ meme-core/
 
 ```powershell
 # Clone and setup in one command
-git clone https://github.com/bogardt/meme-core.git && cd meme-core && npm run setup
+git clone https://github.com/vladmeer/pumpfun-bundler-rust.git && cd pumpfun-bundler && npm run setup
 ```
 
 ## 🛠️ Installation
@@ -468,7 +468,7 @@ npm test
 
 This repository contains only a documentation showcasing the core architecture and features. For access to the **full production-ready version** with advanced features, enhanced security, and complete functionality:
 
-📱 **Contact me on Telegram: [@bogardt](https://t.me/bogardt)**
+📱 **Contact me on Telegram: [@vladmeer](https://t.me/vladmeer67)**
 
 ### Full Version Includes:
 
